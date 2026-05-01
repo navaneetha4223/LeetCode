@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/navaneetha4223/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/navaneetha4223/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0258-add-digits) |
+| [0396-rotate-function](https://github.com/navaneetha4223/LeetCode/tree/master/0396-rotate-function) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/navaneetha4223/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/navaneetha4223/LeetCode/tree/master/0283-move-zeroes) |
+| [0396-rotate-function](https://github.com/navaneetha4223/LeetCode/tree/master/0396-rotate-function) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/navaneetha4223/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/navaneetha4223/LeetCode/tree/master/0118-pascals-triangle) |
+| [0396-rotate-function](https://github.com/navaneetha4223/LeetCode/tree/master/0396-rotate-function) |
 ## Divide and Conquer
 |  |
 | ------- |
