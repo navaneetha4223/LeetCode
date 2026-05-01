@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/navaneetha4223/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/navaneetha4223/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/navaneetha4223/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/navaneetha4223/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
