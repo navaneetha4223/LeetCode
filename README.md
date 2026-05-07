@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/navaneetha4223/LeetCode/tree/master/0396-rotate-function) |
 | [0733-flood-fill](https://github.com/navaneetha4223/LeetCode/tree/master/0733-flood-fill) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/navaneetha4223/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [3660-jump-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/navaneetha4223/LeetCode/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/navaneetha4223/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0788-rotated-digits) |
+| [3660-jump-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/3660-jump-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
