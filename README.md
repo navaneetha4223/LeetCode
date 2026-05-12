@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/navaneetha4223/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/navaneetha4223/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/navaneetha4223/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/navaneetha4223/LeetCode/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/navaneetha4223/LeetCode/tree/master/0796-rotate-string) |
