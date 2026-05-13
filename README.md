@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneetha4223/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/navaneetha4223/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/navaneetha4223/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/navaneetha4223/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/navaneetha4223/LeetCode/tree/master/1861-rotating-the-box) |
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/navaneetha4223/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/navaneetha4223/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/navaneetha4223/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/navaneetha4223/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/navaneetha4223/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/navaneetha4223/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Simulation
 |  |
 | ------- |
