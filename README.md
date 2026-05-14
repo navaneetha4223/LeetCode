@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/navaneetha4223/LeetCode/tree/master/1861-rotating-the-box) |
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/navaneetha4223/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/navaneetha4223/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/navaneetha4223/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/navaneetha4223/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2784-check-if-array-is-good](https://github.com/navaneetha4223/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/navaneetha4223/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2784-check-if-array-is-good](https://github.com/navaneetha4223/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
