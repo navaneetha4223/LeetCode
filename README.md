@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navaneetha4223/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/navaneetha4223/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0229-majority-element-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/navaneetha4223/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/navaneetha4223/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/navaneetha4223/LeetCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/navaneetha4223/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/navaneetha4223/LeetCode/tree/master/0283-move-zeroes) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/navaneetha4223/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/navaneetha4223/LeetCode/tree/master/1861-rotating-the-box) |
 ## Binary Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneetha4223/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/navaneetha4223/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/navaneetha4223/LeetCode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/navaneetha4223/LeetCode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/navaneetha4223/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneetha4223/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/navaneetha4223/LeetCode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/navaneetha4223/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -252,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneetha4223/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
