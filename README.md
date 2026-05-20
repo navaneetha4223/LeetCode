@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/navaneetha4223/LeetCode/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/navaneetha4223/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/navaneetha4223/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/navaneetha4223/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/navaneetha4223/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/3660-jump-game-ix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/navaneetha4223/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/navaneetha4223/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/navaneetha4223/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/navaneetha4223/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/navaneetha4223/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/navaneetha4223/LeetCode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/navaneetha4223/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/navaneetha4223/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
