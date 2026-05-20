@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/navaneetha4223/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/navaneetha4223/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/navaneetha4223/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/navaneetha4223/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/navaneetha4223/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/navaneetha4223/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/navaneetha4223/LeetCode/tree/master/0231-power-of-two) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/navaneetha4223/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/navaneetha4223/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/navaneetha4223/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/navaneetha4223/LeetCode/tree/master/0036-valid-sudoku) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navaneetha4223/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/navaneetha4223/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/navaneetha4223/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/navaneetha4223/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/navaneetha4223/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/navaneetha4223/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/navaneetha4223/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/navaneetha4223/LeetCode/tree/master/0038-count-and-say) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
