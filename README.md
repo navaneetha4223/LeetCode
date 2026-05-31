@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navaneetha4223/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/navaneetha4223/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/navaneetha4223/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/navaneetha4223/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/navaneetha4223/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/navaneetha4223/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/navaneetha4223/LeetCode/tree/master/0066-plus-one) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/navaneetha4223/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/navaneetha4223/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/navaneetha4223/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/navaneetha4223/LeetCode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navaneetha4223/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/navaneetha4223/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/navaneetha4223/LeetCode/tree/master/0169-majority-element) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navaneetha4223/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/navaneetha4223/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/navaneetha4223/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/navaneetha4223/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/navaneetha4223/LeetCode/tree/master/0065-valid-number) |
 | [0168-excel-sheet-column-title](https://github.com/navaneetha4223/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/navaneetha4223/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/navaneetha4223/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/navaneetha4223/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/navaneetha4223/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/navaneetha4223/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0229-majority-element-ii) |
