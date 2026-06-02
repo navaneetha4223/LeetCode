@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/navaneetha4223/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/navaneetha4223/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0607-sales-person](https://github.com/navaneetha4223/LeetCode/tree/master/0607-sales-person) |
+| [0626-exchange-seats](https://github.com/navaneetha4223/LeetCode/tree/master/0626-exchange-seats) |
 ## Binary Indexed Tree
 |  |
 | ------- |
