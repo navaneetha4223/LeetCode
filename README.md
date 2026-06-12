@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/navaneetha4223/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/navaneetha4223/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/navaneetha4223/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/navaneetha4223/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0258-add-digits) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/navaneetha4223/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/navaneetha4223/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/navaneetha4223/LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/navaneetha4223/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/navaneetha4223/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/navaneetha4223/LeetCode/tree/master/0733-flood-fill) |
