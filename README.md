@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/navaneetha4223/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/navaneetha4223/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/navaneetha4223/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/navaneetha4223/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/navaneetha4223/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/navaneetha4223/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/navaneetha4223/LeetCode/tree/master/0189-rotate-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/navaneetha4223/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/navaneetha4223/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/navaneetha4223/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/navaneetha4223/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/navaneetha4223/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/navaneetha4223/LeetCode/tree/master/0796-rotate-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/navaneetha4223/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/navaneetha4223/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/navaneetha4223/LeetCode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/navaneetha4223/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/navaneetha4223/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0258-add-digits) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/navaneetha4223/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
