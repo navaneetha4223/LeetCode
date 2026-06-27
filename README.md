@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/navaneetha4223/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/navaneetha4223/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/navaneetha4223/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/navaneetha4223/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/navaneetha4223/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/navaneetha4223/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/navaneetha4223/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/navaneetha4223/LeetCode/tree/master/1871-jump-game-vii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/navaneetha4223/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/navaneetha4223/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/navaneetha4223/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/navaneetha4223/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/navaneetha4223/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/navaneetha4223/LeetCode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/navaneetha4223/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/navaneetha4223/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/navaneetha4223/LeetCode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/navaneetha4223/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/navaneetha4223/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/navaneetha4223/LeetCode/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/navaneetha4223/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/navaneetha4223/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 ## Database
@@ -579,4 +584,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/navaneetha4223/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
