@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/navaneetha4223/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/navaneetha4223/LeetCode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/navaneetha4223/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/navaneetha4223/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/navaneetha4223/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/navaneetha4223/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/navaneetha4223/LeetCode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/navaneetha4223/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/navaneetha4223/LeetCode/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/navaneetha4223/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/navaneetha4223/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/navaneetha4223/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
