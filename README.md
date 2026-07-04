@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/navaneetha4223/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/navaneetha4223/LeetCode/tree/master/1345-jump-game-iv) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/navaneetha4223/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/navaneetha4223/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/navaneetha4223/LeetCode/tree/master/1306-jump-game-iii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/navaneetha4223/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/navaneetha4223/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/navaneetha4223/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/navaneetha4223/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/navaneetha4223/LeetCode/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/navaneetha4223/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/navaneetha4223/LeetCode/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/navaneetha4223/LeetCode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/navaneetha4223/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/navaneetha4223/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/navaneetha4223/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
