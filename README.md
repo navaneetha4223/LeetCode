@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/navaneetha4223/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/navaneetha4223/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/navaneetha4223/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/navaneetha4223/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/navaneetha4223/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/navaneetha4223/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/navaneetha4223/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/navaneetha4223/LeetCode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/navaneetha4223/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/navaneetha4223/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/navaneetha4223/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3161-block-placement-queries](https://github.com/navaneetha4223/LeetCode/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/navaneetha4223/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
