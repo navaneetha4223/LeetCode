@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/navaneetha4223/LeetCode/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/navaneetha4223/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/navaneetha4223/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/navaneetha4223/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/navaneetha4223/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/navaneetha4223/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/navaneetha4223/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/navaneetha4223/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/navaneetha4223/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/navaneetha4223/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/navaneetha4223/LeetCode/tree/master/3161-block-placement-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/navaneetha4223/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/navaneetha4223/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/navaneetha4223/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/navaneetha4223/LeetCode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/navaneetha4223/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/navaneetha4223/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/navaneetha4223/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/navaneetha4223/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/navaneetha4223/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
