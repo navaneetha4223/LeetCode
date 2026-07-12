@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/navaneetha4223/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/navaneetha4223/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/navaneetha4223/LeetCode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/navaneetha4223/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/navaneetha4223/LeetCode/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/navaneetha4223/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/navaneetha4223/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/navaneetha4223/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/navaneetha4223/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/navaneetha4223/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/navaneetha4223/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/navaneetha4223/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/navaneetha4223/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/navaneetha4223/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/navaneetha4223/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/navaneetha4223/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
