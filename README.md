@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/navaneetha4223/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/navaneetha4223/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/navaneetha4223/LeetCode/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/navaneetha4223/LeetCode/tree/master/0262-trips-and-users) |
 | [0595-big-countries](https://github.com/navaneetha4223/LeetCode/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/navaneetha4223/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0607-sales-person](https://github.com/navaneetha4223/LeetCode/tree/master/0607-sales-person) |
