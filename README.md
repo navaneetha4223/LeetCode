@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/navaneetha4223/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/navaneetha4223/LeetCode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/navaneetha4223/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/navaneetha4223/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/navaneetha4223/LeetCode/tree/master/1840-maximum-building-height) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/navaneetha4223/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/navaneetha4223/LeetCode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/navaneetha4223/LeetCode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/navaneetha4223/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/navaneetha4223/LeetCode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/navaneetha4223/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/navaneetha4223/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/navaneetha4223/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/navaneetha4223/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/navaneetha4223/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/navaneetha4223/LeetCode/tree/master/1288-remove-covered-intervals) |
