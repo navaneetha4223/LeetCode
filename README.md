@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/navaneetha4223/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneetha4223/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/navaneetha4223/LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/navaneetha4223/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navaneetha4223/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/navaneetha4223/LeetCode/tree/master/1840-maximum-building-height) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/navaneetha4223/LeetCode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/navaneetha4223/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/navaneetha4223/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/navaneetha4223/LeetCode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/navaneetha4223/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/navaneetha4223/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/navaneetha4223/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/navaneetha4223/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/navaneetha4223/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/navaneetha4223/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/navaneetha4223/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/navaneetha4223/LeetCode/tree/master/1340-jump-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/navaneetha4223/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -833,4 +836,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/navaneetha4223/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/navaneetha4223/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
