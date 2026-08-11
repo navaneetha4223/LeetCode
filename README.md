@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/navaneetha4223/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/navaneetha4223/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/navaneetha4223/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/navaneetha4223/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/navaneetha4223/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/navaneetha4223/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/navaneetha4223/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/navaneetha4223/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/navaneetha4223/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/navaneetha4223/LeetCode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/navaneetha4223/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/navaneetha4223/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/navaneetha4223/LeetCode/tree/master/0486-predict-the-winner) |
 ## Array
