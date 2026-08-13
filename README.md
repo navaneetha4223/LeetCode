@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/navaneetha4223/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/navaneetha4223/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/navaneetha4223/LeetCode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -926,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/navaneetha4223/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
