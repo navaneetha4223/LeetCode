@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/navaneetha4223/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/navaneetha4223/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/navaneetha4223/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/navaneetha4223/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/navaneetha4223/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/navaneetha4223/LeetCode/tree/master/0066-plus-one) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/navaneetha4223/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/navaneetha4223/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/navaneetha4223/LeetCode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/navaneetha4223/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/navaneetha4223/LeetCode/tree/master/0118-pascals-triangle) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/navaneetha4223/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/navaneetha4223/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/navaneetha4223/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/navaneetha4223/LeetCode/tree/master/0134-gas-station) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navaneetha4223/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/navaneetha4223/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
