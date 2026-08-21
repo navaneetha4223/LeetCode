@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/navaneetha4223/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/navaneetha4223/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/navaneetha4223/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/navaneetha4223/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/navaneetha4223/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/navaneetha4223/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3546-equal-sum-grid-partition-i](https://github.com/navaneetha4223/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/navaneetha4223/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/navaneetha4223/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/navaneetha4223/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/navaneetha4223/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Graph Theory
 |  |
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/navaneetha4223/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/navaneetha4223/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/navaneetha4223/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/navaneetha4223/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
 |  |
