@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/navaneetha4223/LeetCode/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/navaneetha4223/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/navaneetha4223/LeetCode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/navaneetha4223/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/navaneetha4223/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navaneetha4223/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/2029-stone-game-ix) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/navaneetha4223/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/navaneetha4223/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/navaneetha4223/LeetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/navaneetha4223/LeetCode/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/navaneetha4223/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/navaneetha4223/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/navaneetha4223/LeetCode/tree/master/1563-stone-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/navaneetha4223/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/navaneetha4223/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/navaneetha4223/LeetCode/tree/master/1872-stone-game-viii) |
 | [2573-find-the-string-with-lcp](https://github.com/navaneetha4223/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/navaneetha4223/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/navaneetha4223/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/navaneetha4223/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/navaneetha4223/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/navaneetha4223/LeetCode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/navaneetha4223/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/navaneetha4223/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/navaneetha4223/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navaneetha4223/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/navaneetha4223/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/navaneetha4223/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/navaneetha4223/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -961,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/navaneetha4223/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navaneetha4223/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navaneetha4223/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/navaneetha4223/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -968,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/navaneetha4223/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navaneetha4223/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navaneetha4223/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/navaneetha4223/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/navaneetha4223/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimum Spanning Tree
 |  |
