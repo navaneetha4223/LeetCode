@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/navaneetha4223/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/navaneetha4223/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/navaneetha4223/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/navaneetha4223/LeetCode/tree/master/0079-word-search) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/navaneetha4223/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/navaneetha4223/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/navaneetha4223/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/navaneetha4223/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/navaneetha4223/LeetCode/tree/master/0118-pascals-triangle) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/navaneetha4223/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/navaneetha4223/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/navaneetha4223/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/navaneetha4223/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/navaneetha4223/LeetCode/tree/master/0200-number-of-islands) |
