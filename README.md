@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/navaneetha4223/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/navaneetha4223/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/navaneetha4223/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/navaneetha4223/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/navaneetha4223/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/navaneetha4223/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/navaneetha4223/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/navaneetha4223/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/navaneetha4223/LeetCode/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/navaneetha4223/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/navaneetha4223/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/navaneetha4223/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/navaneetha4223/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/navaneetha4223/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/navaneetha4223/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/navaneetha4223/LeetCode/tree/master/0258-add-digits) |
 | [0874-walking-robot-simulation](https://github.com/navaneetha4223/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/navaneetha4223/LeetCode/tree/master/1260-shift-2d-grid) |
