@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/navaneetha4223/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navaneetha4223/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/navaneetha4223/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/navaneetha4223/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/navaneetha4223/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/navaneetha4223/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/navaneetha4223/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/navaneetha4223/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/navaneetha4223/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/navaneetha4223/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/navaneetha4223/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/navaneetha4223/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/navaneetha4223/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/navaneetha4223/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/navaneetha4223/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/navaneetha4223/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
