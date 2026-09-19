@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/navaneetha4223/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/navaneetha4223/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/navaneetha4223/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/navaneetha4223/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/navaneetha4223/LeetCode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/navaneetha4223/LeetCode/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/navaneetha4223/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navaneetha4223/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/navaneetha4223/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/navaneetha4223/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/navaneetha4223/LeetCode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/navaneetha4223/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/navaneetha4223/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/navaneetha4223/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/navaneetha4223/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/navaneetha4223/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/navaneetha4223/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/navaneetha4223/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/navaneetha4223/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
