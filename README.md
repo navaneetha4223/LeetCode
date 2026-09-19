@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/navaneetha4223/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navaneetha4223/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/navaneetha4223/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneetha4223/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/navaneetha4223/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/navaneetha4223/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/navaneetha4223/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/navaneetha4223/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/navaneetha4223/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
