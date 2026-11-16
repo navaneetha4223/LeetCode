@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/navaneetha4223/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/navaneetha4223/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/navaneetha4223/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/navaneetha4223/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/navaneetha4223/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/navaneetha4223/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/navaneetha4223/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/navaneetha4223/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/navaneetha4223/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/navaneetha4223/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/navaneetha4223/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/navaneetha4223/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/navaneetha4223/LeetCode/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/navaneetha4223/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
